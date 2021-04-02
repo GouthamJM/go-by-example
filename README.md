@@ -42,5 +42,5 @@ Basics
 
 ### References
 
-* (https://github.com/TomorrowWu/golang-algorithms)[#https://github.com/TomorrowWu/golang-algorithms] 
-* (https://gobyexample.com/)[#https://gobyexample.com/]
+* [https://github.com/TomorrowWu/golang-algorithms](https://github.com/TomorrowWu/golang-algorithms) 
+* [https://gobyexample.com/](https://gobyexample.com/)
